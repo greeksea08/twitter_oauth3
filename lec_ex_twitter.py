@@ -1,7 +1,6 @@
 from requests_oauthlib import OAuth1Session
 import lec_secret_data
 import json
-import requests
 
 consumer_key = lec_secret_data.CONSUMER_KEY
 consumer_secret = lec_secret_data.CONSUMER_SECRET
